@@ -1,5 +1,3 @@
-#ゼロから作る Deep Learning
-
 The MIT License (MIT)
 
 Copyright (c) 2016 Koki Saitoh
