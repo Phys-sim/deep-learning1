@@ -1,3 +1,5 @@
+#ゼロから作る Deep Learning
+
 The MIT License (MIT)
 
 Copyright (c) 2016 Koki Saitoh
@@ -7,3 +9,16 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+#qiskit (example)
+
+Code is part of Qiskit.
+(C) Copyright IBM 2017, 2024.
+
+This code is licensed under the Apache License, Version 2.0. You may
+obtain a copy of this license in the LICENSE.txt file in the root directory
+of this source tree or at http://www.apache.org/licenses/LICENSE-2.0.
+
+Any modifications or derivative works of this code must retain this
+copyright notice, and modified files need to carry a notice indicating
+that they have been altered from the originals.
